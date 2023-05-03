@@ -114,3 +114,5 @@ measurements/crinacle/*data*/
 measurements/crinacle/Raw measurements (Patreon)/
 results/crinacle/*/*/*.csv
 chromedriver*
+
+.DS_Store
